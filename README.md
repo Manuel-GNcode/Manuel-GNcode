@@ -2,7 +2,7 @@
 - 👀 I’m interested in challenges and getting to know the world
 - 🌱 I’m currently learning Typescript and React
 - 💞️ I’m looking to collaborate on creative bigger projects
-- 📫 How to reach me ...
+- 📫 This is my portfolio: #pending
 - ⚡ Fun fact: If it works, don't touch it.
 
 <!---
