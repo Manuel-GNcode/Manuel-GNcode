@@ -2,7 +2,7 @@
 - 👀 I’m interested in challenges and getting to know the world
 - 🌱 I’m currently learning Typescript and React
 - 💞️ I’m looking to collaborate on creative bigger projects
-- 📫 This is my portfolio: #pending
+- 📫 This is my portfolio: https://bento-portfolio-gncode.netlify.app/
 - ⚡ Fun fact: If it works, don't touch it.
 
 <!---
